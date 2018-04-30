@@ -1,0 +1,17 @@
+{
+    "name": "asyncMatch",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cron_server.js",
+    "scripts": {},
+    "author": "Chong Liu",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "geolib": "^2.0.24",
+        "mysql": "^2.15.0",
+        "mysql2": "^1.5.3",
+        "sequelize": "^4.37.4"
+    },
+    "devDependencies": {}
+}
